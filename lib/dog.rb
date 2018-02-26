@@ -1,3 +1,2 @@
 class dog
-  puts "Woof!"
-end
+  end
